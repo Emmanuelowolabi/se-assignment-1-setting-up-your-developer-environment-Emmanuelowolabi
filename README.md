@@ -12,34 +12,42 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+
    I downloaded and installed Windows 11 using Parallels.
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
    I already downloaded and installed Visual Studio Code from the App Store
 
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
    I installed Git on my local machine via the Terminal. i also initialized a Git repository and made a commit.
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+
   I installed Python 3.12.4
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
+
    I have pip installed as my Python package manager.
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
    I installed MySQL database via the terminal in Ubuntu Linux. I also downloaded Xamp as a way of getting the My SQL database.
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+
    I used the virtual machine, Parallels to get isolated Windows and Linux environments.
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+   
    I installed various extensions and plugins to the IDE, including Pylance, Dart, and GitHub Pull Request.
 
 9. Document Your Setup:

@@ -40,6 +40,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+   I installed various extensions and plugins to the IDE, including Pylance, Dart, and GitHub Pull Request.
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
